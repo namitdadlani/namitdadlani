@@ -3,7 +3,7 @@
 - 📚 I'm studying Masters in Applied Computer Science from Dalhousie University, Canada.
 - 🌱 I’m currently learning Advanced Web Services, Algorithms and how to play a guitar!
 - 💞️ I’m looking to collaborate on Full-stack projects/ Back-end jobs. 
-- 📫 You can reach me at namitdadlani@gmail.com/namit@dal.ca
+- 📫 You can reach me at namitdadlani@gmail.com / namit@dal.ca
 
 <!---
 namitdadlani/namitdadlani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
