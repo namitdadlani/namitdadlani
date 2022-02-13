@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development/Engineering related roles.
 - 📚 I'm studying Masters in Applied Computer Science from Dalhousie University, Canada.
 - 🌱 I’m currently learning Advanced Web Services, Algorithms and how to play a guitar!
-- 💞️ I’m looking to collaborate on Full-stack projects/ Back-end jobs. 
+- 💞️ I’m looking to collaborate on Full-stack / Back-end projects. 
 - 📫 You can reach me at namitdadlani@gmail.com / namit@dal.ca
 
 <!---
